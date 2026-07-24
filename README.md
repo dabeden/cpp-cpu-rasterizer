@@ -12,9 +12,9 @@ hardware for creative asset production.
 
 ##Projected Features
 
-- [ ] Frame buffer + PPM image output
-- [ ] Triangle rasterization 
-- [ ] Z-buffering / depth testing
+- [x] Frame buffer + PPM image output
+- [x] Triangle rasterization 
+- [x] Z-buffering / depth testing
 - [ ] Perspective projection & camera
 - [ ] .obj model loading
 - [ ] Basic shading 
